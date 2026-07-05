@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/abh1nav9/kyrc/releases/download/v0.2.0/kyrc_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/abh1nav9/kyrc/releases/download/v0.2.1/kyrc_0.2.1_windows_amd64.zip",
             "bin": [
                 "kyrc.exe"
             ],
-            "hash": "0814a6a84bb7b78c4d8714f7a8185ebb24229967460656bf0d5750052d42401f"
+            "hash": "554051a4ee45b6964909152e39be1e92889d3053dadbb9a7ed94187d584dbe64"
         }
     },
     "homepage": "https://github.com/abh1nav9/kyrc",
