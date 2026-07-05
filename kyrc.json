@@ -1,0 +1,15 @@
+{
+    "version": "0.1.7",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/abh1nav9/kyrc/releases/download/v0.1.7/kyrc_0.1.7_windows_amd64.zip",
+            "bin": [
+                "kyrc.exe"
+            ],
+            "hash": "b7473aa62b73a26f968bd1baff64719cede1f297adc628c5c6f03df308fdf0d6"
+        }
+    },
+    "homepage": "https://github.com/abh1nav9/kyrc",
+    "license": "MIT",
+    "description": "A fast, offline, keyboard-only typing test for your terminal."
+}
